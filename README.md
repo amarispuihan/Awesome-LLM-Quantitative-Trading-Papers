@@ -100,4 +100,4 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 ## 📝 License
 
-This project is released under the [CC0 1.0 Universal](LICENSE) public domain dedication.
+This project is licensed under the [Creative Commons Attribution 4.0 International](LICENSE) license.
