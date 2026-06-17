@@ -1,0 +1,14 @@
+max_redirects = 10
+retry_wait_time = 2
+max_retries = 2
+timeout = 30
+max_concurrency = 6
+method = "get"
+user_agent = "Mozilla/5.0 (compatible; lychee link checker)"
+accept = ["200..=399", "403", "429"]
+
+exclude = [
+  "https://www.researchgate.net/.*",
+  "https://awesome.re.*",
+  "https://img.shields.io/.*"
+]
