@@ -51,7 +51,7 @@ A curated list of research papers, benchmarks, tools, and resources about large 
 ## 📈 Arenas
 
 - DeepFund: Will LLM be Professional at Fund Investment? A Live Arena Perspective (HKUST, NeurIPS 2025). [![Code](https://img.shields.io/github/stars/HKUSTDial/DeepFund.svg?style=social&label=Star)](https://github.com/HKUSTDial/DeepFund)
-- AI-Trader: Can AI Beat the Market? (HKU, 2025-12). [![Code](https://img.shields.io/github/stars/HKUDS/AI-Trader.svg?style=social&label=Star)](https://github.com/HKUDS/AI-Trader) [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2512.10971)
+- AI-Trader: Can AI Beat the Market? (HKU, 2025-12). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2512.10971) [![Code](https://img.shields.io/github/stars/HKUDS/AI-Trader.svg?style=social&label=Star)](https://github.com/HKUDS/AI-Trader) 
 
 ## 🔥 LLM Post-Training
 
@@ -80,6 +80,7 @@ A curated list of research papers, benchmarks, tools, and resources about large 
 
 ## ☀️ Forecasting
 
+- FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction (Bytedance Seed, 2025-09). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2508.11987) [![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://futurex-ai.github.io)
 - AIA Forecaster: Technical Report (Bridgewater AIA Research, 2025-11). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2511.07678)
 - FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting (NUS, 2026-01). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.05039) [![Project Page](https://img.shields.io/badge/Project_Page-00CED1)](https://openfinarena.com)
 
