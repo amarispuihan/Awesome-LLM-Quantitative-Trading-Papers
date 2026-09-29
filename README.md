@@ -47,6 +47,7 @@ A curated list of research papers, benchmarks, tools, and resources about large 
 - PHANTOM: A Benchmark for Hallucination Detection in Financial Long-Context QA (Goldman Sachs, NeurIPS 2025). [![Paper](https://img.shields.io/badge/OpenReview-8B1A1A)](https://openreview.net/pdf?id=5YQAo0S3Hm)
 - AlphaForgeBench: Benchmarking End-to-End Trading Strategy Design with Large Language Models (NTU, HKUST, 2026-02). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2602.18481)
 - QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies (Lime, 2026-04). [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.15151) [![Code](https://img.shields.io/github/stars/LimexAILab/QuantCode-Bench.svg?style=social&label=Star)](https://github.com/LimexAILab/QuantCode-Bench)
+- Xitadel-QuantBench: A Trading Benchmark Scored Against the Best Human Competition Strategy on the Same Unseen Day (SimReal, 2026-09). [![Code](https://img.shields.io/github/stars/Simreal-AI/Xitadel-QuantBench.svg?style=social&label=Star)](https://github.com/Simreal-AI/Xitadel-QuantBench)
 
 ## 📈 Arenas
 
